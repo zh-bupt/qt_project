@@ -1,0 +1,111 @@
+{
+    "book0": {
+        "ISBN": "201703221234",
+        "author": "白中英 戴志涛",
+        "borrow_list": [
+            "2015211203"
+        ],
+        "brief_introduction": "\"计算机组成原理\"是计算机科学与计数学科的一门核心专业基础课",
+        "category": "",
+        "date": "",
+        "number": 2,
+        "publishing_company": "科学出版社",
+        "title": "计算机组成原理"
+    },
+    "book1": {
+        "ISBN": "201711123333",
+        "author": "杨娟 石川 王柏",
+        "borrow_list": [
+        ],
+        "brief_introduction": "\"形式语言与自动机\"是计算机科学的基础理论之一，是计算机科学与技术专业的重要理论基础课程",
+        "category": "a",
+        "date": "20170322",
+        "number": 3,
+        "publishing_company": "北京邮电大学出版社",
+        "title": "形式语言与自动机"
+    },
+    "book2": {
+        "ISBN": "201711233334",
+        "author": "姜启源 谢金星 叶俊",
+        "borrow_list": [
+        ],
+        "brief_introduction": "数学建模很实用",
+        "category": "c",
+        "date": "20170322",
+        "number": 34,
+        "publishing_company": "高等教育出版社",
+        "title": "数学建模"
+    },
+    "book3": {
+        "ISBN": "201711233335",
+        "author": "Andrew S. Tanenbaum David J. Wetherall",
+        "borrow_list": [
+        ],
+        "brief_introduction": "Computer Network is very important",
+        "category": "x",
+        "date": "20170322",
+        "number": 20,
+        "publishing_company": "机械工业出版社",
+        "title": "Computer Network"
+    },
+    "book4": {
+        "ISBN": "",
+        "author": "王小波",
+        "borrow_list": [
+        ],
+        "brief_introduction": "",
+        "category": "",
+        "date": "",
+        "number": 23,
+        "publishing_company": "陕西师范大学出版社",
+        "title": "黄金时代"
+    },
+    "book5": {
+        "ISBN": "201705053323",
+        "author": "东野圭吾",
+        "borrow_list": [
+        ],
+        "brief_introduction": "现代人内心流失的东西，这家杂货店能帮你找回。",
+        "category": "",
+        "date": "",
+        "number": 34,
+        "publishing_company": "南海出版社",
+        "title": "解忧杂货店"
+    },
+    "book6": {
+        "ISBN": "201705057087",
+        "author": "东野圭吾",
+        "borrow_list": [
+        ],
+        "brief_introduction": "读了《解忧杂货店》意犹未尽的话，来读《时生》吧，会给你更多温暖与感动。",
+        "category": "",
+        "date": "",
+        "number": 23,
+        "publishing_company": "南海出版社",
+        "title": "时生"
+    },
+    "book7": {
+        "ISBN": "201704300999",
+        "author": "Larry Ullman Andreas Signer",
+        "borrow_list": [
+        ],
+        "brief_introduction": "有大师指导，人人都能成为编程高手",
+        "category": "",
+        "date": "",
+        "number": 12,
+        "publishing_company": "人民邮电出版社",
+        "title": "写给大家看的C++书"
+    },
+    "book8": {
+        "ISBN": "201704268080",
+        "author": "Unknown",
+        "borrow_list": [
+        ],
+        "brief_introduction": "想要学好英语吗，那就买大学英语吧",
+        "category": "",
+        "date": "",
+        "number": 66,
+        "publishing_company": "北京邮电大学出版社",
+        "title": "大学英语"
+    }
+}

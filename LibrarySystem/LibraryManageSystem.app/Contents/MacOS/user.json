@@ -1,0 +1,18 @@
+{
+    "2015211203": {
+        "academy": 0,
+        "fine_number": 109,
+        "id": "2015211203",
+        "name": "Jack Z",
+        "password": "11111111",
+        "type": 2
+    },
+    "2015211204": {
+        "academy": 3,
+        "fine_number": 0,
+        "id": "2015211204",
+        "name": "Andy Wang",
+        "password": "12345678",
+        "type": 0
+    }
+}

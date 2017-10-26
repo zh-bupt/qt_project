@@ -1,0 +1,210 @@
+{
+    "201703221234": {
+        "ISBN": "201703221234",
+        "author": "白中英&戴志涛",
+        "borrow_list": [
+        ],
+        "borrow_number": 0,
+        "category": "其它",
+        "date": "20170404",
+        "number": 25,
+        "order_list": [
+        ],
+        "order_number": 0,
+        "publishing_company": "科学出版社",
+        "title": "计算机组成原理 第二版",
+        "total_borrow_number": 5
+    },
+    "201704300999": {
+        "ISBN": "201704300999",
+        "author": "Larry Ullman Andreas Signer",
+        "borrow_list": [
+        ],
+        "borrow_number": 0,
+        "category": "自然科学",
+        "date": "20170404",
+        "number": 10,
+        "order_list": [
+        ],
+        "order_number": 0,
+        "publishing_company": "人民邮电出版社",
+        "title": "写给大家看的C++书",
+        "total_borrow_number": 1
+    },
+    "201705053323": {
+        "ISBN": "201705053323",
+        "author": "东野圭吾",
+        "borrow_list": [
+        ],
+        "borrow_number": 0,
+        "category": "文学历史",
+        "date": "20170404",
+        "number": 32,
+        "order_list": [
+        ],
+        "order_number": 0,
+        "publishing_company": "南海出版社",
+        "title": "解忧杂货店",
+        "total_borrow_number": 1
+    },
+    "201705057087": {
+        "ISBN": "201705057087",
+        "author": "东野圭吾",
+        "borrow_list": [
+        ],
+        "borrow_number": 0,
+        "category": "文学历史",
+        "date": "20170404",
+        "number": 21,
+        "order_list": [
+        ],
+        "order_number": 0,
+        "publishing_company": "南海出版社",
+        "title": "时生",
+        "total_borrow_number": 1
+    },
+    "201706092353": {
+        "ISBN": "201706092353",
+        "author": "欧立奇",
+        "borrow_list": [
+        ],
+        "borrow_number": 0,
+        "category": "其它",
+        "date": "20170609",
+        "number": 44,
+        "order_list": [
+        ],
+        "order_number": 0,
+        "publishing_company": "电子工业出版社",
+        "title": "程序员面试宝典",
+        "total_borrow_number": 0
+    },
+    "201706307136": {
+        "ISBN": "201706307136",
+        "author": "本哈德·施林克",
+        "borrow_list": [
+        ],
+        "borrow_number": 0,
+        "category": "文学历史",
+        "date": "20170630",
+        "number": 20,
+        "order_list": [
+        ],
+        "order_number": 0,
+        "publishing_company": "译林出版社",
+        "title": "朗读者",
+        "total_borrow_number": 1
+    },
+    "201709112738": {
+        "ISBN": "201709112738",
+        "author": "克莱儿·麦克福尔",
+        "borrow_list": [
+        ],
+        "borrow_number": 1,
+        "category": "文学历史",
+        "date": "",
+        "number": 18,
+        "order_list": [
+        ],
+        "order_number": 0,
+        "publishing_company": "百花洲文艺出版社",
+        "title": "摆渡人",
+        "total_borrow_number": 0
+    },
+    "201711123333": {
+        "ISBN": "201711123333",
+        "author": "杨娟 石川 王柏",
+        "borrow_list": [
+        ],
+        "borrow_number": 0,
+        "category": "自然科学",
+        "date": "20170322",
+        "number": 14,
+        "order_list": [
+        ],
+        "order_number": 0,
+        "publishing_company": "北京邮电大学出版社",
+        "title": "形式语言与自动机",
+        "total_borrow_number": 1
+    },
+    "201711233334": {
+        "ISBN": "201711233334",
+        "author": "姜启源 谢金星 叶俊",
+        "borrow_list": [
+        ],
+        "borrow_number": 0,
+        "category": "数理科学",
+        "date": "20170322",
+        "number": 33,
+        "order_list": [
+        ],
+        "order_number": 0,
+        "publishing_company": "高等教育出版社",
+        "title": "数学建模",
+        "total_borrow_number": 2
+    },
+    "201711233335": {
+        "ISBN": "201711233335",
+        "author": "Andrew S. Tanenbaum David J. Wetherall",
+        "borrow_list": [
+        ],
+        "borrow_number": 0,
+        "category": "工业技术",
+        "date": "20170322",
+        "number": 18,
+        "order_list": [
+        ],
+        "order_number": 0,
+        "publishing_company": "机械工业出版社",
+        "title": "Computer Network",
+        "total_borrow_number": 0
+    },
+    "201712288641": {
+        "ISBN": "201712288641",
+        "author": "王晓东",
+        "borrow_list": [
+        ],
+        "borrow_number": 0,
+        "category": "工业技术",
+        "date": "20171228",
+        "number": 23,
+        "order_list": [
+        ],
+        "order_number": 0,
+        "publishing_company": "清华大学出版社",
+        "title": "算法设计与分析",
+        "total_borrow_number": 0
+    },
+    "201802140228": {
+        "ISBN": "201802140228",
+        "author": "Stephen Prata",
+        "borrow_list": [
+        ],
+        "borrow_number": 0,
+        "category": "工业技术",
+        "date": "20180214",
+        "number": 22,
+        "order_list": [
+        ],
+        "order_number": 0,
+        "publishing_company": "人民邮电出版社",
+        "title": "C Primer Plus",
+        "total_borrow_number": 0
+    },
+    "201805219787563521326": {
+        "ISBN": "201805219787563521326",
+        "author": "史悦 孙钟祥",
+        "borrow_list": [
+        ],
+        "borrow_number": 0,
+        "category": "数理科学",
+        "date": "20180521",
+        "number": 12,
+        "order_list": [
+        ],
+        "order_number": 0,
+        "publishing_company": "北京邮电大学出版社",
+        "title": "概率论与随机过程",
+        "total_borrow_number": 0
+    }
+}

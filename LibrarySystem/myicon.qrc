@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/myimages"/>
+    <qresource prefix="/myfile">
+        <file>user.txt</file>
+        <file>alluser.json</file>
+        <file>book.json</file>
+        <file>log.txt</file>
+    </qresource>
+</RCC>
